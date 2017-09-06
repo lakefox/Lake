@@ -1,0 +1,11 @@
+{
+  "name": "fox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M-a-s-o-n",
+  "license": "MIT"
+}
